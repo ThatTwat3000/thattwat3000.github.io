@@ -10,9 +10,29 @@ I'm **ThatTwat3000**, your friendly neighborhood Japanese web novel translator a
 
 ### 🌸 What I Do
 
-- **Web Novel Translations:** I specialize in translating Japanese web novels into English. I pour my heart into capturing the essence and nuances of each story, trying to get you the most authentic reading experience possible. I have worked on 9 novels, of which 2 have been completely translated. I have translated more than 200,000 words, gotten more than 95,000 translation page views, and gained 354 registered translation readers. 
+- **Web Novel Translations:** I specialize in translating Japanese web novels into English. I pour my heart into capturing the essence and nuances of each story, trying to get you the most authentic reading experience possible.
 
-- **Original Novel:** Besides translating, I also craft my own original stories. Currently, I have only written one novel, and it is still publishing. It currently has 114 readers, 7,700 words, and over 2,000 page views.
+#### Translation Statistics
+
+| **Metric**                           | **Value**             |
+|--------------------------------------|-----------------------|
+| **Novels Worked On**                 | 9                     |
+| **Novels Completely Translated**     | 2                     |
+| **Total Words Translated**           | 200,000+              |
+| **Translation Page Views**           | 95,000+               |
+| **Registered Translation Readers**   | 354                   |
+
+- **Original Novel:** Besides translating, I also craft my own original stories. Currently, I have only written one novel, and it is still publishing.
+
+#### Original Novel Statistics
+
+| **Metric**               | **Value**       |
+|--------------------------|-----------------|
+| **Original Novel Status**| Publishing      |
+| **Total Words Written**  | 7,700           |
+| **Total Readers**        | 114             |
+| **Total Page Views**     | 2,000+          |
+
 
 ### ✨ Where to Find My Work
 
