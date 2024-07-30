@@ -12,26 +12,26 @@ I'm **ThatTwat3000**, your friendly neighborhood Japanese web novel translator a
 
 - **Web Novel Translations:** I specialize in translating Japanese web novels into English. I pour my heart into capturing the essence and nuances of each story, trying to get you the most authentic reading experience possible.
 
-#### Translation Statistics
+    Translation Statistics
 
-| **Metric**                           | **Value**             |
-|--------------------------------------|-----------------------|
-| **Novels Worked On**                 | 9                     |
-| **Novels Completely Translated**     | 2                     |
-| **Total Words Translated**           | 200,000+              |
-| **Translation Page Views**           | 95,000+               |
-| **Registered Translation Readers**   | 354                   |
+    | **Metric**                           | **Value**             |
+    |--------------------------------------|-----------------------|
+    | **Novels Worked On**                 | 9                     |
+    | **Novels Completely Translated**     | 2                     |
+    | **Total Words Translated**           | 200,000+              |
+    | **Translation Page Views**           | 95,000+               |
+    | **Registered Translation Readers**   | 354                   |
 
 - **Original Novel:** Besides translating, I also craft my own original stories. Currently, I have only written one novel, and it is still publishing.
 
-#### Original Novel Statistics
+    Original Novel Statistics
 
-| **Metric**               | **Value**       |
-|--------------------------|-----------------|
-| **Original Novel Status**| Publishing      |
-| **Total Words Written**  | 7,700           |
-| **Total Readers**        | 114             |
-| **Total Page Views**     | 2,000+          |
+    | **Metric**               | **Value**       |
+    |--------------------------|-----------------|
+    | **Original Novel Status**| Publishing      |
+    | **Total Words Written**  | 7,700           |
+    | **Total Readers**        | 114             |
+    | **Total Page Views**     | 2,000+          |
 
 
 ### ✨ Where to Find My Work
